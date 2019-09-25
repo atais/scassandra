@@ -1,0 +1,9 @@
+language: scala
+dist: xenial
+scala:
+  - 2.13.1
+script:
+  - sbt coverage +test coverageReport coverageAggregate
+jdk:
+  - openjdk8
+  - openjdk11
