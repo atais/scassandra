@@ -7,8 +7,8 @@ This is an open-source solution to that problem.
 
 The integration is divided into two parts.
 
-- [`CQL` and *query execution* integration](#Cassandra Scala Integration)
-- [ListenableFuture Scala Integration](#ListenableFuture Scala Integration)
+- [`CQL` and *query execution* integration](#cassandra-scala-integration)
+- [ListenableFuture Scala Integration](#listenablefuture-scala-integration)
 
 # Requirements
 
